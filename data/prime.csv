@@ -1,0 +1,51 @@
+#,2,Digits,Date Discovered,Discovered By,Method / Hardware,Perfect Number
+1,2,1,c. 500 BCE,Ancient Greek mathematicians,,2
+2,2,1,c. 500 BCE,Ancient Greek mathematicians,,2
+3,2,2,c. 275 BCE,Ancient Greek mathematicians,,2
+4,2,3,c. 275 BCE,Ancient Greek mathematicians,,2
+5,2,4,1456,Anonymous,trial division,2
+6,2,6,1588,Pietro Cataldi,trial division,2
+7,2,6,1588,Pietro Cataldi,trial division,2
+8,2,10,1772,Leonhard Euler,Enhanced trial division,2
+9,2,19,1883,Ivan Mikheevich Pervushin,Lucas sequences,2
+10,2,27,1911 Jun,R. E. Powers,Lucas sequences,2
+11,2,33,1914 Jun 11,R. E. Powers,Lucas sequences,2
+12,2,39,1876 Jan 10,Édouard Lucas,Lucas sequences,2
+13,2,157,1952 Jan 30,Raphael M. Robinson,L-L / SWAC,2
+14,2,183,1952 Jan 30,Raphael M. Robinson,L-L / SWAC,2
+15,2,386,1952 Jun 25,Raphael M. Robinson,L-L / SWAC,2
+16,2,664,1952 Oct 07,Raphael M. Robinson,L-L / SWAC,2
+17,2,687,1952 Oct 09,Raphael M. Robinson,L-L / SWAC,2
+18,2,969,1957 Sep 08,Hans Riesel,L-L / BESK,2
+19,2,"1,281",1961 Nov 03,Alexander Hurwitz,L-L / IBM 7090,2
+20,2,"1,332",1961 Nov 03,Alexander Hurwitz,L-L / IBM 7090,2
+21,2,"2,917",1963 May 11,Donald B. Gillies,L-L / ILLIAC II,2
+22,2,"2,993",1963 May 16,Donald B. Gillies,L-L / ILLIAC II,2
+23,2,"3,376",1963 Jun 02,Donald B. Gillies,L-L / ILLIAC II,2
+24,2,"6,002",1971 Mar 04,Bryant Tuckerman,L-L / IBM 360/91,2
+25,2,"6,533",1978 Oct 30,Landon Curt Noll & Laura Nickel,L-L / CDC Cyber 174,2
+26,2,"6,987",1979 Feb 09,Landon Curt Noll,L-L / CDC Cyber 174,2
+27,2,"13,395",1979 Apr 08,Harry Lewis Nelson & David Slowinski,L-L / Cray 1,2
+28,2,"25,962",1982 Sep 25,David Slowinski,L-L / Cray 1,2
+29,2,"33,265",1988 Jan 28,Walter Colquitt & Luke Welsh,L-L / NEC SX-2,2
+30,2,"39,751",1983 Sep 19,David Slowinski,L-L / Cray X-MP,2
+31,2,"65,050",1985 Sep 01,David Slowinski,L-L / Cray X-MP/24,2
+32,2,"227,832",1992 Feb 19,David Slowinski & Paul Gage,L-L / Maple on Harwell Lab Cray-2,2
+33,2,"258,716",1994 Jan 04,David Slowinski & Paul Gage,L-L / Cray C90,2
+34,2,"378,632",1996 Sep 03,David Slowinski & Paul Gage,L-L / Cray T94,2
+35,2,"420,921",1996 Nov 13,GIMPS / Joel Armengaud,L-L / Prime95 on 90 MHz Pentium PC,2
+36,2,"895,932",1997 Aug 24,GIMPS / Gordon Spence,L-L / Prime95 on 100 MHz Pentium PC,2
+37,2,"909,526",1998 Jan 27,GIMPS / Roland Clarkson,L-L / Prime95 on 200 MHz Pentium PC,2
+38,2,"2,098,960",1999 Jun 01,GIMPS / Nayan Hajratwala,L-L / Prime95 on 350 MHz Pentium II IBM Aptiva,2
+39,2,"4,053,946",2001 Nov 14,GIMPS / Michael Cameron,L-L / Prime95 on 800 MHz Athlon Thunderbird,2
+40,2,"6,320,430",2003 Nov 17,GIMPS / Michael Shafer,L-L / Prime95 on 2 GHz Dell Dimension,2
+41,2,"7,235,733",2004 May 15,GIMPS / Josh Findley,L-L / Prime95 on 2.4 GHz Pentium 4 PC,2
+42,2,"7,816,230",2005 Feb 18,GIMPS / Martin Nowak,L-L / Prime95 on 2.4 GHz Pentium 4 PC,2
+43,2,"9,152,052",2005 Dec 15,GIMPS / Curtis Cooper & Steven Boone,L-L / Prime95 on 2 GHz Pentium 4 PC,2
+44,2,"9,808,358",2006 Sep 04,GIMPS / Curtis Cooper & Steven Boone,L-L / Prime95 on 3 GHz Pentium 4 PC,2
+45,2,"11,185,272",2008 Sep 06,GIMPS / Hans-Michael Elvenich,L-L / Prime95 on 2.83 GHz Core 2 Duo PC,2
+46,2,"12,837,064",2009 Jun 04,GIMPS / Odd M. Strindmo,L-L / Prime95 on 3 GHz Core 2 PC,2
+47,2,"12,978,189",2008 Aug 23,GIMPS / Edson Smith,L-L / Prime95 on Dell Optiplex 745,2
+48,2,"17,425,170",2013 Jan 25,GIMPS / Curtis Cooper,L-L / Prime95 on Intel Core2 Duo E8400 @ 3.00GHz,2
+49,2,"22,338,618",2016 Jan 07,GIMPS / Curtis Cooper,L-L / Prime95 on Intel i7-4790 @ 3.60GHz,2
+50,2,"23,249,425",2017 Dec 26,GIMPS / Jon Pace,L-L / Prime95 on Intel i5-6600 @ 3.30GHz,2
